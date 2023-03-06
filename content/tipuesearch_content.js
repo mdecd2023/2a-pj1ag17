@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '\n 41023118 吳政憲 41023120呂昕叡', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '組員 :41023118 吳政憲 41023120呂昕叡 \n 倉儲 : https://github.com/mdecd2023/2a-pj1ag17 \n 網站 : https://mdecd2023.github.io/2a-pj1ag17/content/index.html', 'tags': '', 'url': 'About.html'}]};
